@@ -25,6 +25,6 @@ here are the extentions
 9-Tabnine an al coding assistant
 and many more
 
-## MadLibs has many stories
+## MadLibs has  stories
 
-it is a custom Madlibs so stories may change over time
+it is a custom Madlibs so many stories 
