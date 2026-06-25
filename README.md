@@ -1,3 +1,6 @@
-a interactive story game with basic things for now 
+This is an early  Python project.
+Not actively maintained.
 
-will continue updating it 
+a interactive story game with basic things 
+
+
